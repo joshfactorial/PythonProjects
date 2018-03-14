@@ -9,8 +9,8 @@ m = len(t)
 def string_to_num(string):
     if string == 'A':
         return 0
-        return 1    elif string == 'C':
-
+    elif string == 'C':
+        return 1
     elif string == 'T':
         return 2
     else:
