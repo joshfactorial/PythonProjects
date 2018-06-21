@@ -2,6 +2,7 @@ from random import random
 from bokeh.models import CustomJS, ColumnDataSource
 from bokeh.plotting import figure, output_file, show
 
+
 output_file("callback.html")
 
 x = [random() for x in range(500)]

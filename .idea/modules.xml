@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Python Projects.iml" filepath="$PROJECT_DIR$/.idea/Python Projects.iml" />
-      <module fileurl="file://$USER_HOME$/Google Drive/Python/Rosalind/Rosalind/.idea/Rosalind.iml" filepath="$USER_HOME$/Google Drive/Python/Rosalind/Rosalind/.idea/Rosalind.iml" />
+      <module fileurl="file://$USER_HOME$/Google Drive/Python/Rosalind/.idea/Rosalind.iml" filepath="$USER_HOME$/Google Drive/Python/Rosalind/.idea/Rosalind.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Text_game/.idea/Text_game.iml" filepath="$PROJECT_DIR$/../Text_game/.idea/Text_game.iml" />
     </modules>
   </component>

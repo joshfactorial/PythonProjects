@@ -10,7 +10,7 @@ import sys
 # read in file, stripping off the fasta code and 
 # joining the separate lines into one, then
 # making it all upper case for consistency
-def read_file(file) -> str:
+def read_seq(file) -> str:
     with open(file) as file:
         seq = file.readline().rstrip('\n')
         for line in file:
@@ -23,35 +23,20 @@ def read_file(file) -> str:
 
 # Read in the scoring matrix, stripping off the characters
 def read_matrix(file):
-    with open(file) as f:
-        next(f)
+    f = open(file)
+    AAs = f.readline().strip().strip('\n').split("  ") # reads the first line to get the sequence catalog
+    for line in f:
         matrix = []
-        for line in f:
-            line = line.strip('A')
-            line = line.strip('C')
-            line = line.strip('T')
-            line = line.strip('G')
-            line = line.strip('\n')
-            line = line.strip(' ')
-            matrix.append(line)
-    return np.loadtxt(matrix, dtype=int)
-
-
-# Converts a nucleotide to a number for use in the scoring matrix	
-def string_to_num(string):
-    if string == 'A':
-        return 0
-    elif string == 'T':
-        return 1
-    elif string == 'C':
-        return 2
-    elif string == 'G':
-        return 3
+        line = line.strip('\n')
+        line = line.strip(' ')
+        matrix.append(list(map(int, line.split()[1:])))
+    key = dict(zip(AAs, list(np.arange(len(AAs)))))
+    return matrix, key
 
 # set variables to inputted arguments
-seq1 = read_file(sys.argv[1])
-seq2 = read_file(sys.argv[2])
-sim_mat = read_matrix(sys.argv[3])
+seq1 = read_seq(sys.argv[1])
+seq2 = read_seq(sys.argv[2])
+blosum = read_matrix(sys.argv[3])
 gap_score = int(sys.argv[4])
 
 m = len(seq1)
@@ -115,5 +100,5 @@ if i > 0:
         i = i - 1
         score += gap_score
 
-print("The optimal alignment has a score %s" % score)
+print("The optimal alignment_matrix has a score %s" % score)
 print(seq1_aln + '\n' + seq2_aln)
