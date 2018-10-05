@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d310f4d8-c349-4847-b6f2-ab5d7fa63890" name="Default" comment="trying out commit">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/summer programming/Shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/summer programming/class_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A4_numpy/A4_numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../A4_numpy/A4_numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A5_pandas_with_joins/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../A5_pandas_with_joins/data/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AllstarFull.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Appearances.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AwardsManagers.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AwardsPlayers.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AwardsShareManagers.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AwardsSharePlayers.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Batting.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BattingPost.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/CollegePlaying.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Fielding.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FieldingOF.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FieldingOFsplit.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FieldingPost.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/HallOfFame.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/HomeGames.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Managers.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ManagersHalf.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Parks.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/People.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Pitching.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/PitchingPost.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Salaries.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Schools.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/SeriesPost.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Teams.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/TeamsFranchises.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/TeamsHalf.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/readme2014.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summer programming/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/summer programming/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monarch_simulation/Butterflies.py" beforeDir="false" afterPath="$PROJECT_DIR$/../monarch_simulation/Butterflies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../monarch_simulation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../monarch_simulation/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_Projects$A5.coverage" NAME="A5 Coverage Results" MODIFIED="1531597799656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Python_Projects$A6__1_2_3_4_output_Qiuyan.coverage" NAME="A6_#1,2,3,4_output_Qiuyan Coverage Results" MODIFIED="1532380201349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../A6_network_senate" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Doctests_in_A4_numpy.coverage" NAME="Doctests in A4_numpy Coverage Results" MODIFIED="1530383709617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../A4_numpy" />
+    <SUITE FILE_PATH="coverage/Python_Projects$A6_node_creation_Josh.coverage" NAME="A6_node_creation_Josh Coverage Results" MODIFIED="1531624815626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../A6_network_senate" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Unnamed__1_.coverage" NAME="Unnamed (1) Coverage Results" MODIFIED="1529624023041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Butterflies.coverage" NAME="Butterflies Coverage Results" MODIFIED="1533747818365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Final_Project" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Doctest_hours_elapsed.coverage" NAME="Doctest hours_elapsed Coverage Results" MODIFIED="1529995848093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../A3_on_storms_collaborate" />
+    <SUITE FILE_PATH="coverage/Python_Projects$A4_numpy.coverage" NAME="A4_numpy Coverage Results" MODIFIED="1530669994050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../A4_numpy" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Doctests_in_Butterflies.coverage" NAME="Doctests in Butterflies Coverage Results" MODIFIED="1533285268831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Final_Project" />
+    <SUITE FILE_PATH="coverage/Python_Projects$A6_Andy_Susan_Joshua_Qiuyan.coverage" NAME="A6_Andy_Susan_Joshua_Qiuyan Coverage Results" MODIFIED="1531869848992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../A6_network_senate" />
+    <SUITE FILE_PATH="coverage/Python_Projects$base_converter.coverage" NAME="base_converter Coverage Results" MODIFIED="1529020642921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/summer programming" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Doctests_in_A6_Class.coverage" NAME="Doctests in A6_Class Coverage Results" MODIFIED="1532380253108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../A6_network_senate" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Assignment_2.coverage" NAME="Assignment_2 Coverage Results" MODIFIED="1529594396546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/summer programming" />
+    <SUITE FILE_PATH="coverage/Python_Projects$6_19_class.coverage" NAME="6-19 class Coverage Results" MODIFIED="1529451643940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/summer programming" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1529372004614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Anaconda3" />
+    <SUITE FILE_PATH="coverage/Python_Projects$A6_Class.coverage" NAME="A6_Class Coverage Results" MODIFIED="1532380382469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../A6_network_senate" />
+    <SUITE FILE_PATH="coverage/Python_Projects$a3.coverage" NAME="a3 Coverage Results" MODIFIED="1530110486482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../A3_on_storms_collaborate" />
+    <SUITE FILE_PATH="coverage/Python_Projects$DynamicProgramming.coverage" NAME="DynamicProgramming Coverage Results" MODIFIED="1529372019007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Projects$example.coverage" NAME="example Coverage Results" MODIFIED="1528851192170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/summer programming" />
+    <SUITE FILE_PATH="coverage/Python_Projects$A4.coverage" NAME="A4 Coverage Results" MODIFIED="1530383557470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Butterflies__1_.coverage" NAME="Butterflies (1) Coverage Results" MODIFIED="1533534007667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../monarch_simulation" />
+    <SUITE FILE_PATH="coverage/Python_Projects$A6_inprogress_vote_number.coverage" NAME="A6_inprogress-vote_number Coverage Results" MODIFIED="1531869743177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../A6_network_senate" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Text_game.coverage" NAME="Text_game Coverage Results" MODIFIED="1531170850206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Python_Projects$jallen17_Assignment_3.coverage" NAME="jallen17_Assignment_3 Coverage Results" MODIFIED="1529628073545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/Python_Projects$Sort_letters.coverage" NAME="Sort letters Coverage Results" MODIFIED="1533746509058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1529628528154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/Python_Projects$class_example.coverage" NAME="class_example Coverage Results" MODIFIED="1530771428720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/summer programming" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Doctests_in_Field.coverage" NAME="Doctests in Field Coverage Results" MODIFIED="1533100496015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Final_Project" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Shape.coverage" NAME="Shape Coverage Results" MODIFIED="1530771365687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/summer programming" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Doctests_in_Butterflies__1_.coverage" NAME="Doctests in Butterflies (1) Coverage Results" MODIFIED="1533516348452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../monarch_simulation" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1502314899">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="589" />
+          <entry key="dummy" value="17" />
+          <entry key="md" value="8273" />
+          <entry key="py" value="28737" />
+          <entry key="txt" value="789" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="8273" />
+          <entry key="PLAIN_TEXT" value="806" />
+          <entry key="Python" value="29326" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="6" />
+          <entry key="py" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="6" />
+          <entry key="Python" value="26" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Python Projects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Final_Project/Butterflies.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12053">
+              <caret line="713" column="49" selection-start-line="713" selection-start-column="49" selection-end-line="713" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1533747877599" expanded="true" signature="1599:1605" ph="..." />
+                <marker date="1533747877599" expanded="true" signature="1600:1605" ph="..." />
+                <marker date="1533747877599" expanded="true" signature="4279:4282" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Final_Project/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="58">
+                <caret line="90" column="24" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../monarch_simulation/Butterflies.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4318">
+              <caret line="258" column="38" selection-start-line="258" selection-start-column="38" selection-end-line="258" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../monarch_simulation/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="459">
+                <caret line="27" selection-start-line="27" selection-end-line="27" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sort letters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>value</find>
+      <find>storm</find>
+      <find>summary</find>
+      <find>current</find>
+      <find>time_current</find>
+      <find>simi</find>
+      <find>read_session</find>
+      <find>seek_foo</find>
+      <find>random</find>
+      <find>self.position</find>
+      <find>location</find>
+      <find>get_fo</find>
+      <find>+</find>
+      <find>-=</find>
+      <find>+=</find>
+      <find>butterfly died</find>
+      <find>find_clos</find>
+      <find>food_le</find>
+      <find>coord</find>
+      <find>check_for</find>
+      <find>food_table</find>
+      <find>butterfly</find>
+      <find>dictionary</find>
+      <find>test_field</find>
+      <find>seek</find>
+      <find>get_foo</find>
+      <find>second</find>
+      <find>print</find>
+      <find>raise</find>
+      <find>food level</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>bqplot</replace>
+      <replace>1</replace>
+      <replace>2</replace>
+      <replace>3</replace>
+      <replace>blosum62</replace>
+      <replace>m</replace>
+      <replace>clust_names</replace>
+      <replace>/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Final_Project" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testing.py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming.py" />
+        <option value="$PROJECT_DIR$/data/create_data_and_align.py" />
+        <option value="$PROJECT_DIR$/subfile.ipynb" />
+        <option value="$PROJECT_DIR$/subfile.py" />
+        <option value="$PROJECT_DIR$/create_data_and_align.py" />
+        <option value="$PROJECT_DIR$/../Text_game/Interaction.py" />
+        <option value="$PROJECT_DIR$/viz_for_me.py" />
+        <option value="$PROJECT_DIR$/vis_for_me.ipynb" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/training.py" />
+        <option value="$PROJECT_DIR$/DynamicProgramming.py" />
+        <option value="$PROJECT_DIR$/final project.py" />
+        <option value="$PROJECT_DIR$/scale base e.py" />
+        <option value="$PROJECT_DIR$/mutate_protein.py" />
+        <option value="$PROJECT_DIR$/Scoring_protein_pairs.py" />
+        <option value="$PROJECT_DIR$/Testing_script.py" />
+        <option value="$PROJECT_DIR$/Multiple_alignment_matching.py" />
+        <option value="$PROJECT_DIR$/Assessment_exercise.py" />
+        <option value="$PROJECT_DIR$/data/summer programming/example.py" />
+        <option value="$PROJECT_DIR$/summer programming/example.py" />
+        <option value="$PROJECT_DIR$/summer programming/assignment_1.py" />
+        <option value="$PROJECT_DIR$/summer programming/base_converter.py" />
+        <option value="$PROJECT_DIR$/summer programming/6-14_class.py" />
+        <option value="$USER_HOME$/Desktop/jallen17_Assignment_2.py" />
+        <option value="$PROJECT_DIR$/summer programming/6-19 class.py" />
+        <option value="$PROJECT_DIR$/summer programming/Assignment_2.py" />
+        <option value="$PROJECT_DIR$/summer programming/Assignment 3.py" />
+        <option value="$PROJECT_DIR$/tests.py" />
+        <option value="$PROJECT_DIR$/../A3_on_storms/jallen17_Assignment_3.py" />
+        <option value="$PROJECT_DIR$/../A3_on_storms_collaborate/README.md" />
+        <option value="$PROJECT_DIR$/../A3_on_storms_collaborate/a3.py" />
+        <option value="$PROJECT_DIR$/summer programming/6-26 class.py" />
+        <option value="$PROJECT_DIR$/summer programming/test.py" />
+        <option value="$PROJECT_DIR$/summer programming/6-28.ipynb" />
+        <option value="$PROJECT_DIR$/../A4_numpy/A4_numpy.py" />
+        <option value="$PROJECT_DIR$/summer programming/Object-oriented.py" />
+        <option value="$PROJECT_DIR$/summer programming/Shape.py" />
+        <option value="$PROJECT_DIR$/summer programming/class_example.py" />
+        <option value="$PROJECT_DIR$/../A5_pandas_with_joins/A5_pandas_with_joins.ipynb" />
+        <option value="$PROJECT_DIR$/../A6_network_senate/A6_Andy_Susan_Joshua_Qiuyan.py" />
+        <option value="$PROJECT_DIR$/../A6_network_senate/2015_00001.xml" />
+        <option value="$PROJECT_DIR$/../A6_network_senate/A6_node_creation_Josh.py" />
+        <option value="$PROJECT_DIR$/../A6_network_senate/A6_#1,2,3,4_output_Qiuyan.py" />
+        <option value="$PROJECT_DIR$/../A6_network_senate/A6_Class.py" />
+        <option value="$PROJECT_DIR$/../Final_Project/README.md" />
+        <option value="$PROJECT_DIR$/../monarch_simulation/Butterflies.py" />
+        <option value="$PROJECT_DIR$/../monarch_simulation/README.md" />
+        <option value="$PROJECT_DIR$/Sort lettercs.py" />
+        <option value="$PROJECT_DIR$/Sort letters.py" />
+        <option value="$PROJECT_DIR$/../Final_Project/Butterflies.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="348" />
+    <option name="y" value="15" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A5_pandas_with_joins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Final_Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monarch_simulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A6_network_senate" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="A6_network_senate" sdk-home="C:\Users\Joshua\Anaconda3\python.exe" working-directory="$PROJECT_DIR$/../A6_network_senate">
+        <option name="useSoftWraps" value="true" />
+        <option name="mySdkHome" value="C:\Users\Joshua\Anaconda3\python.exe" />
+        <option name="myModuleName" value="A6_network_senate" />
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$/../A6_network_senate" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Joshua\Desktop" />
+      <recent name="C:\Users\Joshua\PycharmProjects\Python Projects" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Joshua\PycharmProjects\Python Projects\summer programming" />
+      <recent name="C:\Users\Joshua\PycharmProjects\Python Projects" />
+      <recent name="C:\Users\Joshua\PycharmProjects\A5_pandas_with_joins\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Butterflies">
+    <configuration name="A5" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="Text_game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Joshua\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Text_game" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="Text_game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Joshua\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration name="A4" type="PythonConfigurationType" factoryName="Python">
+      <module name="A4_numpy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../A4_numpy" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Butterflies (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="monarch_simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../monarch_simulation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../monarch_simulation/Butterflies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Butterflies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Final_Project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Final_Project/Butterflies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Joshua\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../A3_on_storms" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sort letters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort letters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in Butterflies (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="monarch_simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../monarch_simulation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../monarch_simulation/Butterflies.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in Butterflies" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Final_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Final_Project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Final_Project/Butterflies.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jupyter Notebook.A5" />
+      <item itemvalue="Jupyter Notebook.Text_game" />
+      <item itemvalue="Python.Python" />
+      <item itemvalue="Python.A4" />
+      <item itemvalue="Python.Butterflies" />
+      <item itemvalue="Python tests.Doctests in Butterflies" />
+      <item itemvalue="Python tests.Doctests in Butterflies (1)" />
+      <item itemvalue="Python.Butterflies (1)" />
+      <item itemvalue="Python.Sort letters" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Butterflies" />
+        <item itemvalue="Python.Sort letters" />
+        <item itemvalue="Python.Butterflies (1)" />
+        <item itemvalue="Python tests.Doctests in Butterflies (1)" />
+        <item itemvalue="Python tests.Doctests in Butterflies" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d310f4d8-c349-4847-b6f2-ab5d7fa63890" name="Default" comment="" />
+      <created>1520995752524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520995752524</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in_Butterflies - 2018.08.01 at 00h 24m 40s.xml">
+      <configuration name="Doctests in Butterflies" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Butterflies - 2018.08.01 at 00h 26m 17s.xml">
+      <configuration name="Doctests in Butterflies" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Butterflies - 2018.08.01 at 00h 26m 30s.xml">
+      <configuration name="Doctests in Butterflies" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Butterflies - 2018.08.01 at 00h 26m 50s.xml">
+      <configuration name="Doctests in Butterflies" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Butterflies - 2018.08.03 at 03h 15m 46s.xml">
+      <configuration name="Doctests in Butterflies" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Butterflies - 2018.08.03 at 03h 16m 33s.xml">
+      <configuration name="Doctests in Butterflies" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Butterflies - 2018.08.03 at 03h 34m 29s.xml">
+      <configuration name="Doctests in Butterflies" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Butterflies_(1) - 2018.08.05 at 19h 38m 45s.xml">
+      <configuration name="Doctests in Butterflies (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Butterflies_(1) - 2018.08.05 at 19h 38m 58s.xml">
+      <configuration name="Doctests in Butterflies (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Butterflies_(1) - 2018.08.05 at 19h 45m 49s.xml">
+      <configuration name="Doctests in Butterflies (1)" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7229917" visible="true" weight="0.17489879" />
+      <window_info id="Structure" order="1" sideWeight="0.27700832" side_tool="true" weight="0.0" />
+      <window_info id="Favorites" order="2" sideWeight="0.26536313" side_tool="true" weight="0.20890689" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32740214" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6137652" weight="0.3291815" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49716598" weight="0.38967973" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32737032" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49392712" weight="0.32206404" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.8842105" visible="true" weight="0.74733096" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49814323" weight="0.7241993" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.38623482" side_tool="true" weight="0.35957065" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3291592" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32955465" />
+      <window_info active="true" anchor="right" id="SciView" order="4" visible="true" weight="0.32955465" />
+      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="5" side_tool="true" weight="0.14574899" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.32955465" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7229917" visible="true" weight="0.0" />
+      <window_info id="Structure" order="1" sideWeight="0.27700832" side_tool="true" visible="true" weight="0.0" />
+      <window_info id="Favorites" order="2" sideWeight="0.26536313" side_tool="true" weight="0.20890689" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32789856" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6137652" visible="true" weight="0.35765123" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49716598" weight="0.38967973" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32737032" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49392712" weight="0.32206404" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.8842105" weight="0.455516" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49814323" weight="0.45438284" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.38623482" side_tool="true" weight="0.35957065" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3291592" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32955465" />
+      <window_info anchor="right" id="SciView" order="4" visible="true" weight="0.0" />
+      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="5" side_tool="true" weight="0.14574899" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.32955465" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Github is slow to update for me so I didn't see all your changes." />
+    <MESSAGE value="Comment in readme" />
+    <MESSAGE value="added in the function and code to calculate the speeds, then the mean and max for the storm. Added the output for each storm" />
+    <MESSAGE value="updated readme" />
+    <MESSAGE value="Made changes discussed in email" />
+    <MESSAGE value="finished assignment with text output files" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="trying out commit" />
+    <MESSAGE value="Final file" />
+    <MESSAGE value="Added the third analysis" />
+    <MESSAGE value="function that reads senators from a file. I used the A6_inprogress-vote_number.py or the other one to get the files &quot;session_X_XXXXX.xml&quot; and read the members and attributes off those." />
+    <MESSAGE value="Added an example use" />
+    <MESSAGE value="fixed memID" />
+    <MESSAGE value="I think I finished the Field and butterfly classes. Now to construct the functions for the simulation!" />
+    <MESSAGE value="fleshing out the butterfly class" />
+    <MESSAGE value="working more on the butterfly class and related functions" />
+    <MESSAGE value="Updated Readme to reflect progress" />
+    <MESSAGE value="Working on a processing function for fields to find the nearest elements, then a seeking function for the butterflies" />
+    <MESSAGE value="Fine tuning the Butterfly class movement paramenters and suchlike." />
+    <MESSAGE value="Trying to get this to run in a reasonable amount of time" />
+    <MESSAGE value="Technically, this version works, but it's still really really slow" />
+    <MESSAGE value="Final commit for class, though there are still improvements I plan to make." />
+    <MESSAGE value="Final commit of my readme for class. I still want to make improvements, however." />
+    <MESSAGE value="Fixing bugs" />
+    <MESSAGE value="slight change to readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="slight change to readme" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>66</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>67</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Documents/GitHub/CS466_finalproject/Multiple_alignment_matching.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>255</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>277</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>50</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../A3_on_storms_collaborate/a3.py</url>
+          <line>370</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>Field.__food_table</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../A5_pandas_with_joins/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../A5_pandas_with_joins/A5_pandas_with_joins.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/A6_Andy_Susan_Joshua_Qiuyan.py" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/A6_node_creation_Josh.py" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00014.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/A6_inprogress-vote_number.py" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00172.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00015.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00017.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00019.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00001.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_good.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00255.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00186.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00116.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00057.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00042.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00040.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00004.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00003.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00339.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00329.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00002.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_00326.xml" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/A6_#1,2,3,4_output_Qiuyan.py" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2018_output.txt" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2017_output.txt" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2016_output.txt" />
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/2015_output.txt" />
+    <entry file="file://$PROJECT_DIR$/../A4_numpy/A4_cube_size_100.npy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../A4_numpy/A4_numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../A6_network_senate/A6_Class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4403">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="299" selection-start-line="299" selection-end-line="299" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pandas/core/dtypes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="423" selection-start-line="423" selection-end-line="423" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pandas/core/dtypes/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="542" selection-start-line="542" selection-end-line="542" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pandas/compat/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pandas/core/indexes/range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="257" selection-start-line="257" selection-end-line="257" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pandas/core/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="919" selection-start-line="919" selection-end-line="919" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="1492" selection-start-line="1492" selection-end-line="1492" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/multiprocessing/context.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-616">
+          <caret line="265" selection-start-line="265" selection-end-line="265" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Final_Project/Butterflies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12053">
+          <caret line="713" column="49" selection-start-line="713" selection-start-column="49" selection-end-line="713" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1533747877599" expanded="true" signature="1599:1605" ph="..." />
+            <marker date="1533747877599" expanded="true" signature="1600:1605" ph="..." />
+            <marker date="1533747877599" expanded="true" signature="4279:4282" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../monarch_simulation/Butterflies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4318">
+          <caret line="258" column="38" selection-start-line="258" selection-start-column="38" selection-end-line="258" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../monarch_simulation/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="459">
+            <caret line="27" selection-start-line="27" selection-end-line="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort letters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Final_Project/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="58">
+            <caret line="90" column="24" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

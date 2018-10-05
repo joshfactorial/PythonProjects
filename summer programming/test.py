@@ -131,3 +131,6 @@ print("\nHurricanes per year")
 
 for hurricane_year in sorted(hurricane_counter):
     print("{}: {} hurricanes".format(hurricane_year, str(hurricane_counter[hurricane_year])))
+
+def func(tail:str) -> float:
+    return float(tail[0])

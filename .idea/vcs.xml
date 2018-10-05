@@ -3,5 +3,10 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../A3_on_storms_collaborate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../A4_numpy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../A5_pandas_with_joins" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../A6_network_senate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Final_Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../monarch_simulation" vcs="Git" />
   </component>
 </project>

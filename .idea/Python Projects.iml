@@ -4,10 +4,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.6 (Python Projects)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Rosalind" />
-    <orderEntry type="module" module-name="Text_game" />
-    <orderEntry type="module" module-name="Rosalind" />
-    <orderEntry type="module" module-name="A3_on_storms_collaborate" />
+    <orderEntry type="module" module-name="A5_pandas_with_joins" />
+    <orderEntry type="module" module-name="A6_network_senate" />
+    <orderEntry type="module" module-name="Final_Project" />
+    <orderEntry type="module" module-name="monarch_simulation" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
